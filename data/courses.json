@@ -5,7 +5,9 @@
         "rating": 3,
         "name": "Jensen Elliott",
         "catagory": "python",
-        "duration": "2h 30 minutes"
+        "img": "./assets/python/img1.png",
+        "duration": "2h 30 minutes",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022"
     },
     {
         "id": "63578bfc94b7ec3472c0fd65",
@@ -13,7 +15,9 @@
         "rating": 3,
         "name": "Barton David",
         "catagory": "python",
-        "duration": "3h 30 minutes"
+        "img": "./assets/python/img2.png",
+        "duration": "3h 30 minutes",
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python"
     },
     {
         "id": "63578bfcec101dc4081491e8",
@@ -21,7 +25,9 @@
         "rating": 3,
         "name": "Janis Munoz",
         "catagory": "python",
-        "duration": "2h 30 minutes"
+        "img": "./assets/python/img3.png",
+        "duration": "2h 30 minutes",
+        "title": "Complete Python Developer in 2022: Zero to Mastery"
     },
     {
         "id": "63578bfc61ed2d4897facd86",
@@ -29,7 +35,9 @@
         "rating": 3,
         "name": "Patton Kirkland",
         "catagory": "python",
-        "duration": "4h 30 minutes"
+        "img": "./assets/python/img4.png",
+        "duration": "4h 30 minutes",
+        "title": "Learn Python Programming Masterclass"
     },
     {
         "id": "63578bfc8c6efd817926f8c7",
@@ -37,7 +45,9 @@
         "rating": 3,
         "name": "Campos Monroe",
         "catagory": "python",
-        "duration": "2h 40 minutes"
+        "img": "./assets/python/img5.png",
+        "duration": "2h 40 minutes",
+        "title": "The Python Mega Course: Build 10 Real World Applications"
     },
     {
         "id": "63578bfcaafa5621e13c4ab4",
@@ -45,7 +55,9 @@
         "rating": 4,
         "name": "Mullins Dudley",
         "catagory": "python",
-        "duration": "2h 30 minutes"
+        "img": "./assets/python/img6.png",
+        "duration": "2h 30 minutes",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022"
     },
     {
         "id": "63578bfc4803d394f292462c",
@@ -53,7 +65,9 @@
         "rating": 4,
         "name": "Sloan Carr",
         "catagory": "python",
-        "duration": "4h 30 minutes"
+        "img": "./assets/python/img7.png",
+        "duration": "4h 30 minutes",
+        "title": "The Python Mega Course: Build 10 Real World Applications"
     },
     {
         "id": "63578bfca99f81086eaad716",
@@ -61,7 +75,9 @@
         "rating": 4,
         "name": "Mcbride Hickman",
         "catagory": "python",
-        "duration": "6h 30 minutes"
+        "img": "./assets/python/img8.png",
+        "duration": "6h 30 minutes",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022"
     },
     {
         "id": "63578bfc3c492d78dc66218d",
@@ -69,7 +85,9 @@
         "rating": 3,
         "name": "Hobbs Ortiz",
         "catagory": "python",
-        "duration": "2h 30 minutes"
+        "img": "./assets/python/img8.png",
+        "duration": "2h 30 minutes",
+        "title": "The Complete Python Course | Learn Python by Doing in 2022"
     },
     {
         "id": "63578bfc7f60845e1ac83413",
@@ -77,7 +95,9 @@
         "rating": 4,
         "name": "Nikki Miranda",
         "catagory": "ml",
-        "duration": "2h 30 minutes"
+        "img": "./assets/ml/img6.png",
+        "duration": "2h 30 minutes",
+        "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
     },
     {
         "id": "63578bfc85b1550001beb420",
@@ -85,6 +105,8 @@
         "rating": 3,
         "name": "Brooks Stone",
         "catagory": "ml",
+        "img": "./assets/ml/img1.png",
+        "title": "Complete Machine Learning & Data Science Bootcamp 2022",
         "duration": "1h 30 minutes"
     },
     {
@@ -93,6 +115,8 @@
         "rating": 3,
         "name": "Camacho Richard",
         "catagory": "ml",
+        "img": "./assets/ml/img2.png",
+        "title": "2022 Python for Machine Learning & Data Science Masterclass",
         "duration": "2h 45 minutes"
     },
     {
@@ -101,6 +125,8 @@
         "rating": 4,
         "name": "Sheila Workman",
         "catagory": "ml",
+        "img": "./assets/ml/img3.png",
+        "title": "The Data Science Course 2022: Complete Data Science Bootcamp",
         "duration": "2h 30 minutes"
     },
     {
@@ -109,6 +135,8 @@
         "rating": 4,
         "name": "Kemp Madden",
         "catagory": "github",
+        "title": "The git and Github Bootcamp",
+        "img": "./assets/github/img4.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -117,6 +145,8 @@
         "rating": 3,
         "name": "Ollie Raymond",
         "catagory": "github",
+        "title": "The git and Github -The Practical Guide",
+        "img": "./assets/github/img2.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -125,6 +155,8 @@
         "rating": 3,
         "name": "Fulton Dean",
         "catagory": "ml",
+        "img": "./assets/ml/img4.png",
+        "title": "Machine Learning, Data Science and Deep Learning with Python",
         "duration": "2h 30 minutes"
     },
     {
@@ -133,6 +165,8 @@
         "rating": 4,
         "name": "Corine Watkins",
         "catagory": "ml",
+        "title": "TensorFlow Developer Certificate in 2022: Zero to Mastery",
+        "img": "./assets/ml/img5.png",
         "duration": "1h 30 minutes"
     },
     {
@@ -141,6 +175,8 @@
         "rating": 3,
         "name": "Luella Dunlap",
         "catagory": "github",
+        "title": "GitHub Ultimate: Master Git and GitHub - Beginner to Expert",
+        "img": "./assets/github/img3.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -149,6 +185,8 @@
         "rating": 3,
         "name": "Cameron Peters",
         "catagory": "github",
+        "title": "The Complete GitHub Actions & Workflows Guide",
+        "img": "./assets/github/img4.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -157,6 +195,8 @@
         "rating": 3,
         "name": "Oneill Willis",
         "catagory": "github",
+        "title": "Rocking Git & GitHub - A Real World Guide",
+        "img": "./assets/github/img5.png",
         "duration": "3h 30 minutes"
     },
     {
@@ -165,6 +205,8 @@
         "rating": 4,
         "name": "Owen Clements",
         "catagory": "mysql",
+        "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "img": "./assets/mysql/img1.png",
         "duration": "2h 20 minutes"
     },
     {
@@ -173,6 +215,8 @@
         "rating": 3,
         "name": "Bass Henson",
         "catagory": "mysql",
+        "title": "SQL - MySQL for Data Analytics and Business Intelligence",
+        "img": "./assets/mysql/img2.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -181,6 +225,8 @@
         "rating": 4,
         "name": "Cherry Rutledge",
         "catagory": "mysql",
+        "title": "SQL - Introduction to SQL with MySQL",
+        "img": "./assets/mysql/img3.png",
         "duration": "1h 30 minutes"
     },
     {
@@ -189,6 +235,8 @@
         "rating": 4,
         "name": "Guthrie Cross",
         "catagory": "mysql",
+        "title": "Complete MySQL DBA Training on Linux",
+        "img": "./assets/mysql/img4.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -197,6 +245,8 @@
         "rating": 3,
         "name": "Valenzuela Roman",
         "catagory": "mysql",
+        "title": "The SQL MicroDegree 2022: From SQL Basics To MySQL Mastery",
+        "img": "./assets/mysql/img5.png",
         "duration": "2h 20 minutes"
     },
     {
@@ -205,6 +255,7 @@
         "rating": 3,
         "name": "Lakeisha Fleming",
         "catagory": "mysql",
+        "img": "./assets/mysql/img6.png",
         "duration": "2h 30 minutes"
     },
     {
