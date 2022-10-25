@@ -256,6 +256,7 @@
         "name": "Lakeisha Fleming",
         "catagory": "mysql",
         "img": "./assets/mysql/img6.png",
+        "title": "Introduction to SQL with MySQL",
         "duration": "2h 30 minutes"
     },
     {
@@ -264,6 +265,8 @@
         "rating": 4,
         "name": "Christensen Boone",
         "catagory": "fullstack",
+        "title": "The Complete 2022 Web Development Bootcamp",
+        "img": "./assets/fullstack/img6.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -272,6 +275,8 @@
         "rating": 3,
         "name": "Vang Hardy",
         "catagory": "fullstack",
+        "title": "The Web Developer Bootcamp 2022",
+        "img": "./assets/fullstack/img7.png",
         "duration": "6h 30 minutes"
     },
     {
@@ -280,6 +285,8 @@
         "rating": 3,
         "name": "Lila Bartlett",
         "catagory": "fullstack",
+        "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
+        "img": "./assets/fullstack/img5.png",
         "duration": "7h 30 minutes"
     },
     {
@@ -288,6 +295,8 @@
         "rating": 3,
         "name": "Ellen Mckay",
         "catagory": "fullstack",
+        "title": "The Full Stack Data Scientist BootCamp",
+        "img": "./assets/fullstack/img4.png",
         "duration": "2h 40 minutes"
     },
     {
@@ -295,7 +304,9 @@
         "price": 172,
         "rating": 4,
         "name": "Shawna Johnston",
+        "title": "Full Stack Web Development Bootcamp",
         "catagory": "fullstack",
+        "img": "./assets/fullstack/img3.png",
         "duration": "2h 30 minutes"
     },
     {
@@ -304,6 +315,8 @@
         "rating": 3,
         "name": "Julia Kirk",
         "catagory": "fullstack",
+        "title": "The Full stack Web Development Bootcamp 2022 - MERN STACK",
+        "img": "./assets/fullstack/img2.png",
         "duration": "1h 30 minutes"
     },
     {
@@ -312,6 +325,8 @@
         "rating": 4,
         "name": "Caitlin Burns",
         "catagory": "fullstack",
+        "title": "Full Stack: Angular and Java Spring Boot E-Commerce Website",
+        "img": "./assets/fullstack/img1.png",
         "duration": "2h 40 minutes"
     },
     {
@@ -320,6 +335,8 @@
         "rating": 4,
         "name": "Rowland Snow",
         "catagory": "js",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "img": "./assets/js/img1.png",
         "duration": "1h 30 minutes"
     },
     {
@@ -327,21 +344,18 @@
         "price": 118,
         "rating": 4,
         "name": "Alyssa Estrada",
+        "title": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
         "catagory": "js",
+        "img": "./assets/js/img2.png",
         "duration": "4h 30 minutes"
-    },
-    {
-        "id": "63578bfccbb6f909c960de42",
-        "price": 353,
-        "rating": 3,
-        "name": "Dale Hampton",
-        "catagory": "js"
     },
     {
         "id": "63578bfc294e6e869e7dfb34",
         "price": 205,
         "rating": 4,
         "name": "Kathy Houston",
+        "title": "The Complete 2022 Web Development Bootcamp",
+        "img": "./assets/js/img3.png",
         "catagory": "js",
         "duration": "2h 30 minutes"
     },
@@ -350,31 +364,19 @@
         "price": 239,
         "rating": 4,
         "name": "Imelda Jenkins",
+        "title": "Complete JavaScript Projects Course Games 55 Modern JS DOM",
         "catagory": "js",
+        "img": "./assets/js/img4.png",
         "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfcd78c88aae9416c83",
         "price": 134,
         "rating": 4,
+        "title": "ES6 Javascript: The Complete Developer's Guide",
         "name": "Dorthy Barlow",
         "catagory": "js",
+        "img": "./assets/js/img5.png",
         "duration": "2h 30 minutes"
-    },
-    {
-        "id": "63578bfc23fb4da53b290fe1",
-        "price": 250,
-        "rating": 3,
-        "name": "Moody Weeks",
-        "catagory": "js",
-        "duration": "2h 30 minutes"
-    },
-    {
-        "id": "63578bfc1e18baceb5441e9c",
-        "price": 234,
-        "rating": 3,
-        "name": "Geraldine Grant",
-        "catagory": "js",
-        "duration": "5h 30 minutes"
     }
 ]
