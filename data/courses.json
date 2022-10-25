@@ -4,286 +4,326 @@
         "price": 144,
         "rating": 3,
         "name": "Jensen Elliott",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc94b7ec3472c0fd65",
         "price": 76,
         "rating": 3,
         "name": "Barton David",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "3h 30 minutes"
     },
     {
         "id": "63578bfcec101dc4081491e8",
         "price": 105,
         "rating": 3,
         "name": "Janis Munoz",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc61ed2d4897facd86",
         "price": 232,
         "rating": 3,
         "name": "Patton Kirkland",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "4h 30 minutes"
     },
     {
         "id": "63578bfc8c6efd817926f8c7",
         "price": 134,
         "rating": 3,
         "name": "Campos Monroe",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "2h 40 minutes"
     },
     {
         "id": "63578bfcaafa5621e13c4ab4",
         "price": 355,
         "rating": 4,
         "name": "Mullins Dudley",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc4803d394f292462c",
         "price": 135,
         "rating": 4,
         "name": "Sloan Carr",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "4h 30 minutes"
     },
     {
         "id": "63578bfca99f81086eaad716",
         "price": 41,
         "rating": 4,
         "name": "Mcbride Hickman",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "6h 30 minutes"
     },
     {
         "id": "63578bfc3c492d78dc66218d",
         "price": 271,
         "rating": 3,
         "name": "Hobbs Ortiz",
-        "catagory": "python"
+        "catagory": "python",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc7f60845e1ac83413",
         "price": 20,
         "rating": 4,
         "name": "Nikki Miranda",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc85b1550001beb420",
         "price": 218,
         "rating": 3,
         "name": "Brooks Stone",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "1h 30 minutes"
     },
     {
         "id": "63578bfcd3c1cbdd08229b0e",
         "price": 281,
         "rating": 3,
         "name": "Camacho Richard",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "2h 45 minutes"
     },
     {
         "id": "63578bfc76f241d91fe10c3b",
         "price": 305,
         "rating": 4,
         "name": "Sheila Workman",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfcc7fa84d44ac42b26",
         "price": 125,
         "rating": 4,
         "name": "Kemp Madden",
-        "catagory": "github"
+        "catagory": "github",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc360d75cd61dfe75b",
         "price": 296,
         "rating": 3,
         "name": "Ollie Raymond",
-        "catagory": "github"
+        "catagory": "github",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc6f5429ac5975cc32",
         "price": 150,
         "rating": 3,
         "name": "Fulton Dean",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc038d508d83bd94f7",
         "price": 119,
         "rating": 4,
         "name": "Corine Watkins",
-        "catagory": "machineLearning"
+        "catagory": "ml",
+        "duration": "1h 30 minutes"
     },
     {
         "id": "63578bfc72820d4c8dd31647",
         "price": 43,
         "rating": 3,
         "name": "Luella Dunlap",
-        "catagory": "github"
+        "catagory": "github",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfcb449de5f38d420d9",
         "price": 142,
         "rating": 3,
         "name": "Cameron Peters",
-        "catagory": "github"
+        "catagory": "github",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc4a6ca970a0620c9f",
         "price": 136,
         "rating": 3,
         "name": "Oneill Willis",
-        "catagory": "github"
+        "catagory": "github",
+        "duration": "3h 30 minutes"
     },
     {
         "id": "63578bfc2e8ededff3f51a18",
         "price": 400,
         "rating": 4,
         "name": "Owen Clements",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "2h 20 minutes"
     },
     {
         "id": "63578bfc2b38c293206751bc",
         "price": 206,
         "rating": 3,
         "name": "Bass Henson",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfcc9cb35bfe272e12a",
         "price": 369,
         "rating": 4,
         "name": "Cherry Rutledge",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "1h 30 minutes"
     },
     {
         "id": "63578bfccb5f64dd4a80025b",
         "price": 310,
         "rating": 4,
         "name": "Guthrie Cross",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc2578e78ec9868c64",
         "price": 135,
         "rating": 3,
         "name": "Valenzuela Roman",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "2h 20 minutes"
     },
     {
         "id": "63578bfc5d287b67721679e2",
         "price": 218,
         "rating": 3,
         "name": "Lakeisha Fleming",
-        "catagory": "mysql"
+        "catagory": "mysql",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc5235ee748ed0b137",
         "price": 306,
         "rating": 4,
         "name": "Christensen Boone",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc19e60a075dc20b48",
         "price": 365,
         "rating": 3,
         "name": "Vang Hardy",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "6h 30 minutes"
     },
     {
         "id": "63578bfc13d568a4eda67d41",
         "price": 285,
         "rating": 3,
         "name": "Lila Bartlett",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "7h 30 minutes"
     },
     {
         "id": "63578bfc3d7c886cd42ec8b2",
         "price": 334,
         "rating": 3,
         "name": "Ellen Mckay",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "2h 40 minutes"
     },
     {
         "id": "63578bfc2c8fb3022a613692",
         "price": 172,
         "rating": 4,
         "name": "Shawna Johnston",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc5320ba8d25ff39fa",
         "price": 49,
         "rating": 3,
         "name": "Julia Kirk",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "1h 30 minutes"
     },
     {
         "id": "63578bfc994ee52b197ee44e",
         "price": 261,
         "rating": 4,
         "name": "Caitlin Burns",
-        "catagory": "fullstack"
+        "catagory": "fullstack",
+        "duration": "2h 40 minutes"
     },
     {
         "id": "63578bfc35e0f7c8616ed98e",
         "price": 126,
         "rating": 4,
         "name": "Rowland Snow",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "1h 30 minutes"
     },
     {
         "id": "63578bfc31e1ac08f42d8040",
         "price": 118,
         "rating": 4,
         "name": "Alyssa Estrada",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "4h 30 minutes"
     },
     {
         "id": "63578bfccbb6f909c960de42",
         "price": 353,
         "rating": 3,
         "name": "Dale Hampton",
-        "catagory": "javaScript"
+        "catagory": "js"
     },
     {
         "id": "63578bfc294e6e869e7dfb34",
         "price": 205,
         "rating": 4,
         "name": "Kathy Houston",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc626f1269dc88daa3",
         "price": 239,
         "rating": 4,
         "name": "Imelda Jenkins",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfcd78c88aae9416c83",
         "price": 134,
         "rating": 4,
         "name": "Dorthy Barlow",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc23fb4da53b290fe1",
         "price": 250,
         "rating": 3,
         "name": "Moody Weeks",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "2h 30 minutes"
     },
     {
         "id": "63578bfc1e18baceb5441e9c",
         "price": 234,
         "rating": 3,
         "name": "Geraldine Grant",
-        "catagory": "javaScript"
+        "catagory": "js",
+        "duration": "5h 30 minutes"
     }
 ]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "python",
+        "name": "Python"
+    },
+    {
+        "id": "ml",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "github",
+        "name": "Github"
+    },
+    {
+        "id": "mysql",
+        "name": "Mysql"
+    },
+    {
+        "id": "fullstack",
+        "name": "Full Stack"
+    },
+    {
+        "id": "js",
+        "name": "JavaScript"
+    }
+]

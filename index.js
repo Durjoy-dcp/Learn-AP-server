@@ -1,8 +1,18 @@
 const express = require('express')
 const app = express()
 const port = 5000
-app.get('/', (req, res) => {
-    res.send('Hello World!')
+const courses = require('./data/courses.json')
+const catagories = require('./data/catagory.json');
+app.get('/courses/:id', (req, res) => {
+    const CatagoryId = req.params.id;
+    const catagoryCourses = courses.filter(c => c.catagory === req.params.id);
+    res.send(catagoryCourses)
+})
+app.get('/catagory', (req, res) => {
+    res.send(catagories);
+})
+app.get('/allcourses', (req, res) => {
+    res.send(courses)
 })
 
 app.listen(port, () => {
