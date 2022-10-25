@@ -8,8 +8,14 @@ const cors = require('cors')
 app.use(cors())
 app.get('/courses/:id', (req, res) => {
     const CatagoryId = req.params.id;
-    const catagoryCourses = courses.filter(c => c.catagory === req.params.id);
-    res.send(catagoryCourses)
+    if (CatagoryId === 'all') {
+        res.send(courses);
+    }
+    else {
+
+        const catagoryCourses = courses.filter(c => c.catagory === req.params.id);
+        res.send(catagoryCourses)
+    }
 })
 app.get('/catagory', (req, res) => {
     res.send(catagories);

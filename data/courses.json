@@ -12,7 +12,7 @@
     {
         "id": "63578bfc94b7ec3472c0fd65",
         "price": 76,
-        "rating": 3,
+        "rating": 5,
         "name": "Barton David",
         "catagory": "python",
         "img": "./assets/python/img2.png",
@@ -22,7 +22,7 @@
     {
         "id": "63578bfcec101dc4081491e8",
         "price": 105,
-        "rating": 3,
+        "rating": 2,
         "name": "Janis Munoz",
         "catagory": "python",
         "img": "./assets/python/img3.png",
@@ -32,7 +32,7 @@
     {
         "id": "63578bfc61ed2d4897facd86",
         "price": 232,
-        "rating": 3,
+        "rating": 4.4,
         "name": "Patton Kirkland",
         "catagory": "python",
         "img": "./assets/python/img4.png",
