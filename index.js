@@ -17,6 +17,14 @@ app.get('/courses/:id', (req, res) => {
         res.send(catagoryCourses)
     }
 })
+app.get('/course/:id', (req, res) => {
+    const CatagoryId = req.params.id;
+
+
+    const catagoryCourse = courses.find(c => c.id === req.params.id);
+    res.send(catagoryCourse)
+
+})
 app.get('/catagory', (req, res) => {
     res.send(catagories);
 })
