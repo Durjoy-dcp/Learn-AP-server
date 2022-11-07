@@ -32,7 +32,7 @@ async function run() {
 
         })
         app.get('/allcourses', async (req, res) => {
-            // res.send(courses)
+            res.send(courses)
             const qurey = {}
             const cursor = coursesCollection.find(qurey);
             const result = await cursor.toArray();
