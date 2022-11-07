@@ -68,7 +68,7 @@ app.get('/courses/:id', (req, res) => {
 })
 app.get('/course/:id', (req, res) => {
     const CatagoryId = req.params.id;
-    console.log(CatagoryId);
+    console.log("does env deleted?")
     const catagoryCourse = courses.find(c => c.id === req.params.id);
     res.send(catagoryCourse)
 
